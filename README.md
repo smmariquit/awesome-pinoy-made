@@ -59,6 +59,7 @@ A curated compilation of exceptional open-source projects crafted by talented Fi
   - [nvim-numbertoggle](#nvim-numbertoggle)
   - [use-postal-ph](#use-postal-ph)
   - [Leaves.PH](#leavesph)
+  - [dataviz.ph](#datavizph)
 ---
 
 ## Vue Stripe
@@ -443,4 +444,12 @@ An open-source interactive map of Metro Manila's tree canopy measured from Senti
 
 - [Website](https://leaves.ph)
 - [GitHub](https://github.com/xmpuspus/leaves-ph)
+- Author: [@xmpuspus](https://github.com/xmpuspus)
+
+## dataviz.ph
+
+Animated bubble, line, rank, and choropleth charts of Philippine public data: DPWH and PhilGEPS contract awards, GDP, and poverty across 81 provinces plus Metro Manila (2014 to 2024). A static ECharts site built from public records.
+
+- [Website](https://dataviz.ph)
+- [GitHub](https://github.com/xmpuspus/dataviz-ph)
 - Author: [@xmpuspus](https://github.com/xmpuspus)
