@@ -461,4 +461,5 @@ Open-source campus room finder for UPLB students: search rooms, buildings, sched
 
 - [Website](https://room-tba.uplbtools.me)
 - [GitHub](https://github.com/uplbtools/room-tba)
-- Author: [@smmariquit](https://github.com/smmariquit)
+- Maintainer: [@smmariquit](https://github.com/smmariquit)
+- Contributors: [@Kenramiscal1106](https://github.com/Kenramiscal1106), [@klnwlks](https://github.com/klnwlks)
