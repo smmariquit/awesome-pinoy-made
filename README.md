@@ -2,8 +2,7 @@
 
 ![image](https://github.com/OSSPhilippines/awesome-pinoy-made/assets/8638243/2cc1e4ed-70fc-4c6f-8c20-55c7a93dd5c2)
 
-
-A curated compilation of exceptional open-source projects crafted by talented Filipino authors and maintainers. This repository aims to showcase remarkable Pinoy-made projects spanning various domains and technologies, fostering appreciation and collaboration within the vibrant Filipino developer community.
+A curated compilation of exceptional open-source projects crafted by talented Filipino authors and maintainers. This repository aims to showcase remarkable Pinoy-made projects spanning various domains and technologies, support appreciation and collaboration within the vibrant Filipino developer community.
 
 # Before you jump in:
 
@@ -14,52 +13,52 @@ A curated compilation of exceptional open-source projects crafted by talented Fi
 - [Pinoy Made 🇵🇭](#pinoy-made-)
 - [Before you jump in:](#before-you-jump-in)
 - [Table of contents](#table-of-contents)
-  - [Vue Stripe](#vue-stripe)
-  - [Paymongo Node.js](#paymongo-nodejs)
-  - [Vue HTML To Paper](#vue-html-to-paper)
-  - [Vue HTML 2 Canvas](#vue-html-2-canvas)
-  - [Vue Wysiwyg](#vue-wysiwyg)
-  - [Vue Jitsi Meet](#vue-jitsi-meet)
-  - [Vue Breathing Colors](#vue-breathing-colors)
-  - [Vue Morphling](#vue-morphling)
-  - [Vue Croppie](#vue-croppie)
-  - [Vue Animate CSS](#vue-animate-css)
-  - [Vue Image Fallback](#vue-image-fallback)
-  - [Vim Makery](#vim-makery)
-  - [Maya Js](#maya-js)
-  - [V Dashboard](#v-dashboard)
-  - [COVID 3D](#covid-3d)
-  - [Sublime Semantic Highlighter](#sublime-semantic-highlighter)
-  - [Puzzy Search](#puzzy-search)
-  - [Trin DB](#trin-db)
-  - [Ink HTML](#ink-html)
-  - [Sentro](#sentro)
-  - [PyFyre](#pyfyre)
-  - [Vex](#vex)
-  - [V Language Server (VLS)](#v-language-server-vls)
-  - [esbuild-jest](#esbuild-jest)
-  - [minimalist-dev-portfolio](#minimalist-dev-portfolio)
-  - [Flutter Country Code Picker](#flutter-country-code-picker)
-  - [BuyMeaCoffee.js](#buymeacoffeejs)
-  - [GatherTown.js](#gathertownjs)
-  - [CSS Text Portrait Builder](#css-text-portrait-builder)
-  - [COVID19 Tracker CLI](#covid19-tracker-cli)
-  - [Likha CMS](#likha-cms)
-  - [Liso Password Manager (NexPass)](#liso-password-manager-nexpass)
-  - [Simtex](#simtex)
-  - [react-native-rename](#react-native-rename)
-  - [MovieApp](#movieapp)
-  - [tailwind-highlight.nvim](#tailwind-highlightnvim)
-  - [dir-telescope.nvim](#dir-telescopenvim)
-  - [philippines-travel-level-map](#philippines-travel-level-map)
-  - [chatgpt-prompts](#chatgpt-prompts)
-  - [pwy](#pwy)
-  - [chessu](#chessu)
-  - [Faker.js UI](#faker-js-ui)
-  - [nvim-numbertoggle](#nvim-numbertoggle)
-  - [use-postal-ph](#use-postal-ph)
-  - [Leaves.PH](#leavesph)
-  - [dataviz.ph](#datavizph)
+ - [Vue Stripe](#vue-stripe)
+ - [Paymongo Node.js](#paymongo-nodejs)
+ - [Vue HTML To Paper](#vue-html-to-paper)
+ - [Vue HTML 2 Canvas](#vue-html-2-canvas)
+ - [Vue Wysiwyg](#vue-wysiwyg)
+ - [Vue Jitsi Meet](#vue-jitsi-meet)
+ - [Vue Breathing Colors](#vue-breathing-colors)
+ - [Vue Morphling](#vue-morphling)
+ - [Vue Croppie](#vue-croppie)
+ - [Vue Animate CSS](#vue-animate-css)
+ - [Vue Image Fallback](#vue-image-fallback)
+ - [Vim Makery](#vim-makery)
+ - [Maya Js](#maya-js)
+ - [V Dashboard](#v-dashboard)
+ - [COVID 3D](#covid-3d)
+ - [Sublime Semantic Highlighter](#sublime-semantic-highlighter)
+ - [Puzzy Search](#puzzy-search)
+ - [Trin DB](#trin-db)
+ - [Ink HTML](#ink-html)
+ - [Sentro](#sentro)
+ - [PyFyre](#pyfyre)
+ - [Vex](#vex)
+ - [V Language Server (VLS)](#v-language-server-vls)
+ - [esbuild-jest](#esbuild-jest)
+ - [minimalist-dev-portfolio](#minimalist-dev-portfolio)
+ - [Flutter Country Code Picker](#flutter-country-code-picker)
+ - [BuyMeaCoffee.js](#buymeacoffeejs)
+ - [GatherTown.js](#gathertownjs)
+ - [CSS Text Portrait Builder](#css-text-portrait-builder)
+ - [COVID19 Tracker CLI](#covid19-tracker-cli)
+ - [Likha CMS](#likha-cms)
+ - [Liso Password Manager (NexPass)](#liso-password-manager-nexpass)
+ - [Simtex](#simtex)
+ - [react-native-rename](#react-native-rename)
+ - [MovieApp](#movieapp)
+ - [tailwind-highlight.nvim](#tailwind-highlightnvim)
+ - [dir-telescope.nvim](#dir-telescopenvim)
+ - [philippines-travel-level-map](#philippines-travel-level-map)
+ - [chatgpt-prompts](#chatgpt-prompts)
+ - [pwy](#pwy)
+ - [chessu](#chessu)
+ - [Faker.js UI](#faker-js-ui)
+ - [nvim-numbertoggle](#nvim-numbertoggle)
+ - [use-postal-ph](#use-postal-ph)
+ - [Leaves.PH](#leavesph)
+ - [dataviz.ph](#datavizph)
 ---
 
 ## Vue Stripe
@@ -360,7 +359,6 @@ Rename react-native app with just one command
 - Author: [@junedomingo](https://github.com/junedomingo)
 - Twitter: [@junedomingo](https://twitter.com/junedomingo)
 
-
 ## MovieApp
 
 Discover Movies and TV shows - React Native
@@ -430,9 +428,9 @@ Neovim plugin to automatically toggle between relative and absolute line numbers
 
 ## use-postal-ph
 
-This utility library is specifically designed for the Philippines, providing comprehensive information on postal
+This utility library is specifically designed for the Philippines, providing full information on postal
 codes,
-municipalities, locations, and regions. Moreover, searching within the library is case insensitive.
+municipalities, locations, and regions. Also, searching within the library is case insensitive.
 
 - [Website](https://npmjs.com/package/use-postal-ph)
 - [GitHub](https://github.com/blckclov3r/use-postal-ph)

@@ -11,9 +11,9 @@ There are no complicated rules, just follow the following:
 5. **IMPORTANT**: You must also add your project to the `data.json` file at the end of the projects array. See the [Data Format](#data-format) section below.
 6. You can make a PR for awesome projects that you know even if you're not the author given that the following are met:
 
-   a. The project is public.
+ a. The project is public.
 
-   b. The project is not yet on the list.
+ b. The project is not yet on the list.
 
 ## Acceptance Criteria
 
